@@ -1,4 +1,4 @@
-# base 1.0
+# base 1.0.0
 
 © 2019 Jon Ballands
 
@@ -9,7 +9,7 @@ You have the essentials:
 
 - Webpack 4 with dev and prod configurations
 - WDS + HMR with [React 🔥 Loader](https://github.com/gaearon/react-hot-loader)
-- [Coding spliting](https://webpack.js.org/guides/code-splitting/)
+- [Code spliting](https://webpack.js.org/guides/code-splitting/)
 - The latest React version
 - The latest JS features using [babel-preset-env](https://babeljs.io/docs/en/babel-preset-env)
 - [normalize.css](https://necolas.github.io/normalize.css/)
