@@ -1,8 +1,7 @@
 {
   "name": "@jballands/base",
   "version": "1.0.0",
-  "description": "A base application to build new React apps",
-  "main": "index.js",
+  "description": "A starter React app with minimal libraries",
   "scripts": {
     "start": "webpack-dev-server --hot --env dev",
     "build": "webpack --env prod",
