@@ -1,0 +1,10 @@
+{
+	"plugins": ["@babel/plugin-syntax-dynamic-import", "@babel/plugin-transform-regenerator", "react-hot-loader/babel"],
+	"presets": ["@babel/preset-react",
+		[ "@babel/preset-env", {
+			"targets": {
+				"browsers": "last 2 versions and not dead"
+			}
+		}]
+	]
+}
